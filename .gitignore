@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML / Dataset (IMPORTANT)
+data/
+models/
+
+# System files
+.DS_Store
