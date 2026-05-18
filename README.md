@@ -125,51 +125,6 @@ FASHION_AI_PROJECT/
 
 ---
 
-## Installation
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/Fashion-AI-Wardrobe-System.git
-cd Fashion-AI-Wardrobe-System
-```
-
-### Create Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-### Activate Environment
-
-#### Windows
-
-```bash
-venv\Scripts\activate
-```
-
-#### Linux / MacOS
-
-```bash
-source venv/bin/activate
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## Running the Application
-
-```bash
-streamlit run app.py
-```
-
----
-
 ## Future Improvements
 
 * Use segmentation models for more accurate garment extraction
