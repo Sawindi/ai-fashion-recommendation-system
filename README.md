@@ -102,26 +102,6 @@ The final outfit score is calculated using weighted scoring.
 | Outfit Recommendation Accuracy | 86.7%  |
 | System Success Rate            | 100%   |
 
----
-
-## Project Structure
-
-```text
-FASHION_AI_PROJECT/
-│
-├── assets/
-├── data/
-├── models/
-├── notebooks/
-├── src/
-│   ├── detection/
-│   ├── recommendation/
-│   ├── scoring.py
-│   └── feature_extraction/
-├── app.py
-├── requirements.txt
-└── README.md
-```
 
 ---
 
@@ -141,14 +121,3 @@ FASHION_AI_PROJECT/
 BSc (Hons) Computer Science (Artificial Intelligence)
 University of Hertfordshire
 
----
-
-## Research Context
-
-This project was developed as a final year undergraduate research project exploring the integration of:
-
-* Computer Vision
-* Deep Learning
-* Recommendation Systems
-* Semantic Embedding Models
-* Context-Aware Fashion Recommendation
