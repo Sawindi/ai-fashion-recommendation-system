@@ -35,6 +35,19 @@ Unlike many existing fashion recommendation systems that focus mainly on e-comme
 
 ---
 
+## Requirements
+Python 3.13
+pip install -r requirements.txt
+
+## Run web app
+streamlit run app.py
+
+## Run CLI
+Ex. python -m src.main event date_night
+
+## Model
+models/best.pt
+
 ## System Pipeline
 
 1. User uploads wardrobe images
